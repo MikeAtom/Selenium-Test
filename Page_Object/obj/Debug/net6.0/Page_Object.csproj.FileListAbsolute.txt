@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\Page_Object.deps.json
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\Page_Object.dll
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\bin\Debug\net6.0\Page_Object.pdb
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.dll
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\refint\Page_Object.dll
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\Page_Object.pdb
+C:\Users\Lenovo\source\repos\Lab_Test_2\Page_Object\obj\Debug\net6.0\ref\Page_Object.dll
